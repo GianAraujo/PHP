@@ -1,6 +1,7 @@
 <?php
-	echo "Ola Mundo 456";
+<<<<<<< HEAD
+	echo "Ola Mundo 123456";
 	
-	echo " Felipe";
-	
+	echo " Ola Gian Felipe!";
+
 ?>
